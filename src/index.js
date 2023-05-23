@@ -4,7 +4,7 @@ import 'simplelightbox/dist/simple-lightbox.min.css';
 import { Notify } from 'notiflix';
 
 const API_URL = 'https://pixabay.com/api';
-const API_KEY = '36365586-331bc85183b3fd7ba137836b3';
+const API_KEY = '36678731-19e8bc7ea7170052877d4194c';
 const galleryEl = document.querySelector('.gallery');
 const formEl = document.getElementById('search-form');
 const inputEl = document.querySelector('input[class="form-element"]');
